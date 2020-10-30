@@ -1,7 +1,7 @@
 /**
  * Created by benaissa on 8/24/17.
  */
-// Driver class
+// Driver class ----- TEST
 public class Main
 {
     public static void main(String[] args)
@@ -36,5 +36,3 @@ public class Main
         System.out.println("Rear item is " + queue1.getRear());
     }
 }
-
-
